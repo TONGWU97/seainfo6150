@@ -73,6 +73,33 @@ Projects will be evaluated on a 0-100 scale for each of 5 sections. Each section
 ### Journal/writeup
 15% of your final grade will be your individual score as determined by the level of effort/participation detailed in your project journal/writeup. You should keep this journal while your team is working on the project as a record of your individual participation.
 
+In this writeup, you should include a detailed description of your contributions to the project. Feel free to include things like links to your shared team repo, screenshots, google docs histories, etc. to support your description.
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>100-75</th>
+      <th>75-50</th>
+      <th>50-25</th>
+      <th>25-0</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Participation</td>
+      <td>Writeup provides detailed description and is well supported by checkins to repo, screenshots, etc.</td>
+      <td>Writeup provides mostly thorough description and has some supporting details.</td>
+      <td>Writeup is brief and provides few details.</td>
+      <td>Writeup is very brief, incomplete or unfinished/missing.</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <td colspan="5">Total: </td>
+  </tfoot>
+</table>
+
+
 ### HTML
 The HTML for your website must be semantically correct and valid to the best of your ability. I will be validating the site with the W3 HTML Validator (http://validator.w3.org).
 
